@@ -1,4 +1,9 @@
-body {
-    background-color:beige;
+.light {
+    background-color: beige;
     color: darkslategray      
+}
+
+.dark {
+    background-color: darkslategray;
+    color: beige;
 }
